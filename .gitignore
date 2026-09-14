@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml
+*.pyc
+*.sqlite3*
+*.lock
+*.log
+*.tmp
+.runtime/

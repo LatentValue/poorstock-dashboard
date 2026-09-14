@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "status": "not_initialized",
+  "last_completed_at": null,
+  "checked": 0,
+  "planned": 0,
+  "errors": [],
+  "known_companies": 0,
+  "total_known_links": 0
+}

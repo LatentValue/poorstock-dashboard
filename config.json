@@ -1,0 +1,10 @@
+{
+  "mode": "broad",
+  "companies": [],
+  "request_delay_seconds": 3.0,
+  "timeout_seconds": 30,
+  "discovery_refresh_days": 1,
+  "max_requests_per_run": 6000,
+  "max_category_pages": 100,
+  "contact_email": ""
+}

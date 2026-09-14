@@ -1,0 +1,13 @@
+{
+  "offline_tests": {
+    "passed": 82,
+    "skipped_modules": 1,
+    "skipped_reason": "Streamlit not installed; outbound package installation unavailable"
+  },
+  "syntax_check": "All Python files compiled successfully",
+  "workflow_checks": "Both YAML workflow files parsed and schedule/persistence assertions passed",
+  "ui_smoke_tests": "Included for GitHub Actions; not executed in the authoring runtime",
+  "live_collection": "Not executed; direct outbound DNS resolution was unavailable",
+  "deployment": "Not deployed; no GitHub repository or hosted app was modified",
+  "fixtures": "Synthetic HTML only"
+}

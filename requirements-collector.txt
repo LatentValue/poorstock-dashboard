@@ -1,0 +1,5 @@
+requests>=2.32.4,<3
+beautifulsoup4>=4.12,<5
+filelock>=3.16,<4
+protego>=0.6.2,<1
+tzdata>=2025.2
