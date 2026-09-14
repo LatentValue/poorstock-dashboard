@@ -1,0 +1,77 @@
+name: Refresh PoorStock decks
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Literal 11:00 a.m. EDT (UTC-4), year-round.
+    - cron: '0 15 * * *'
+  push:
+    paths:
+      - 'refresh.py'
+      - 'poorstock_monitor.py'
+      - 'dashboard_data.py'
+      - 'config.json'
+      - 'requirements-collector.txt'
+      - '.github/workflows/refresh.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poorstock-daily-collector
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Do not publish data from a feature branch or fork pull request.
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements-collector.txt
+      - name: Install collector dependencies
+        run: python -m pip install -r requirements-collector.txt
+      - name: Collect and persist results
+        id: collect
+        continue-on-error: true
+        run: python refresh.py --max-minutes 300
+      - name: Commit saved links and collection status
+        # Publish failure status too; never show a failed scan as an all-clear.
+        if: always() && steps.collect.outcome != 'skipped'
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/decks.json data/status.json data/runs.json
+          if git diff --cached --quiet; then
+            echo 'No data changes to publish.'
+            exit 0
+          fi
+          git commit -m 'Update PoorStock deck links and collection status'
+          # Allow unrelated code commits while a slow, polite scan is running.
+          # Never force-push or discard a conflicting data update.
+          for attempt in 1 2 3; do
+            git fetch origin "$DEFAULT_BRANCH"
+            git rebase "origin/$DEFAULT_BRANCH"
+            if git push origin "HEAD:$DEFAULT_BRANCH"; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo 'Data push failed. Check branch permissions and rerun the workflow.'
+          exit 1
+      - name: Mark incomplete collection as failed
+        if: always() && steps.collect.outcome == 'failure'
+        run: |
+          echo 'Collection incomplete. Inspect the log and data/status.json.'
+          exit 1
