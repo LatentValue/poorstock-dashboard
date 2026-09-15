@@ -13,5 +13,20 @@
       "HTTP 403; stopping, not bypassing. Retry-After: not supplied"
     ],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-09-15T18:32:08+00:00",
+    "finished_at": "2026-09-15T18:32:11+00:00",
+    "status": "failed",
+    "mode": "broad",
+    "planned": 0,
+    "checked": 0,
+    "requests": 2,
+    "new_links_this_run": 0,
+    "initial_inventory_this_run": 0,
+    "errors": [
+      "HTTP 403; stopping, not bypassing. Retry-After: not supplied"
+    ],
+    "missing_pages": []
   }
 ]
