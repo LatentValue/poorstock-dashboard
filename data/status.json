@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-10-22T18:53:52+00:00",
+  "started_at": "2026-10-23T18:45:43+00:00",
   "mode": "broad",
   "planned": 0,
   "checked": 0,
@@ -9,7 +9,7 @@
   ],
   "requests": 2,
   "coverage_note": "PoorStock-discoverable companies only; not a completeness guarantee for MOPS.",
-  "finished_at": "2026-10-22T18:53:55+00:00",
+  "finished_at": "2026-10-23T18:45:46+00:00",
   "status": "failed",
   "email_status": "disabled",
   "schema_version": 1,
