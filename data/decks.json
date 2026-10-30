@@ -1,7 +1,2817 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T19:54:53+00:00",
+  "generated_at": "2026-10-30T21:19:08+00:00",
   "window_days": 30,
   "window_timezone": "Asia/Taipei",
-  "decks": []
+  "decks": [
+    {
+      "id": "c9d6896ab486677dadf2af4c751c30dde3661a03cb352105fa853e930e6f96c4",
+      "ticker": "8215",
+      "company": "明基材",
+      "url": "https://mopsov.twse.com.tw/nas/STR/821520261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8215",
+      "first_seen": "2026-10-30T21:12:29+00:00",
+      "last_seen": "2026-10-30T21:12:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "821520261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "32c5be1d4ef8da0a9ab1b7e74c11cd3c2114ed4ca42375aa8abf0f0a0892ac2e",
+      "ticker": "6274",
+      "company": "台燿",
+      "url": "https://mopsov.twse.com.tw/nas/STR/627420261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6274",
+      "first_seen": "2026-10-30T20:54:44+00:00",
+      "last_seen": "2026-10-30T20:54:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "627420261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "db6d5051e7ec0f541d7576e68686cb27cd55670555bae46a32d6fbcd0ae3e280",
+      "ticker": "6271",
+      "company": "同欣電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/627120261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6271",
+      "first_seen": "2026-10-30T20:54:41+00:00",
+      "last_seen": "2026-10-30T20:54:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "627120261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c4876b0ca06443bbd46d99a4ed93240cdf26f32c0dacf63f7518e25e35bc9cbc",
+      "ticker": "4968",
+      "company": "立積",
+      "url": "https://mopsov.twse.com.tw/nas/STR/496820261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4968",
+      "first_seen": "2026-10-30T20:39:59+00:00",
+      "last_seen": "2026-10-30T20:39:59+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "496820261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8e9417871a7020a9c20722fbe6e5e459468edac7d8ffa5423bf2c4087a498270",
+      "ticker": "4919",
+      "company": "新唐",
+      "url": "https://mopsov.twse.com.tw/nas/STR/491920261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4919",
+      "first_seen": "2026-10-30T20:38:44+00:00",
+      "last_seen": "2026-10-30T20:38:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "491920261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "5559334318477c88181c480f9cd45d6d819bd11dbd1c0f6e0c586d7f36427b59",
+      "ticker": "4137",
+      "company": "麗豐-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/413720261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4137",
+      "first_seen": "2026-10-30T20:31:29+00:00",
+      "last_seen": "2026-10-30T20:31:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "413720261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6de23610eedf77470397f06ba72ba7d75997ed1c86084e6dfe4f14aac5cef68b",
+      "ticker": "3372",
+      "company": "典範",
+      "url": "https://mopsov.twse.com.tw/nas/STR/337220261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3372",
+      "first_seen": "2026-10-30T20:23:20+00:00",
+      "last_seen": "2026-10-30T20:23:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "337220261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4c4e136cc2af329f62a33b785e42100d89e61fe8180a0d0fd6a196ab600a9992",
+      "ticker": "2630",
+      "company": "亞航",
+      "url": "https://mopsov.twse.com.tw/nas/STR/263020261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2630",
+      "first_seen": "2026-10-30T20:11:02+00:00",
+      "last_seen": "2026-10-30T20:11:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "263020261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6ca99575c0ea847320b22730f92a1935523a15c7773dc972a39e2b8325004111",
+      "ticker": "2454",
+      "company": "聯發科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/245420261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2454",
+      "first_seen": "2026-10-30T20:07:02+00:00",
+      "last_seen": "2026-10-30T20:07:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "245420261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f38d7d7b572a55f2041ae2d502d516565bcaf1621f4e71c0b0d9bcc89b37a673",
+      "ticker": "2439",
+      "company": "美律",
+      "url": "https://mopsov.twse.com.tw/nas/STR/243920261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2439",
+      "first_seen": "2026-10-30T20:06:35+00:00",
+      "last_seen": "2026-10-30T20:06:35+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "243920261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "585799dec7d848b5b4b412c2d3a7abf84535ae64d66893ff28b24327a770358e",
+      "ticker": "2317",
+      "company": "鴻海",
+      "url": "https://mopsov.twse.com.tw/nas/STR/231720260812M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30",
+        "2026-10-20",
+        "2026-10-01",
+        "2026-09-18",
+        "2026-09-03",
+        "2026-08-19",
+        "2026-08-12"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2317",
+      "first_seen": "2026-10-30T20:02:26+00:00",
+      "last_seen": "2026-10-30T20:02:26+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "231720260812M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4d52ab30b41dc4fa797bb69f6c14bb320ce6fe987cac0a4ee41f9a45db06d463",
+      "ticker": "2301",
+      "company": "光寶科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/230120261030M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2301",
+      "first_seen": "2026-10-30T20:01:59+00:00",
+      "last_seen": "2026-10-30T20:01:59+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "230120261030M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "23b8b4b58697600294d385a43b0b361fff965f1c3f3c64f125229cc24b53f635",
+      "ticker": "1504",
+      "company": "東元",
+      "url": "https://mopsov.twse.com.tw/nas/STR/150420260813M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30",
+        "2026-09-01",
+        "2026-08-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1504",
+      "first_seen": "2026-10-30T19:52:38+00:00",
+      "last_seen": "2026-10-30T19:52:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "150420260813M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "a6336a6cb0d69507216d0ba516542bc87d2411bdbdb73593724d5007d389c219",
+      "ticker": "1410",
+      "company": "南染",
+      "url": "https://mopsov.twse.com.tw/nas/STR/141020261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-30"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1410",
+      "first_seen": "2026-10-30T19:50:17+00:00",
+      "last_seen": "2026-10-30T19:50:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-30",
+      "filename": "141020261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "e66975447a079fb8b8f571f36738cf9aff92eb160ec5a9152162f629b77cac33",
+      "ticker": "8467",
+      "company": "波力-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/846720261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8467",
+      "first_seen": "2026-10-30T21:15:17+00:00",
+      "last_seen": "2026-10-30T21:15:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "846720261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "76af7849b057f333c63f54d25aa0209649350812594a058de2daaf7c06a55ba0",
+      "ticker": "6581",
+      "company": "鋼聯",
+      "url": "https://mopsov.twse.com.tw/nas/STR/658120261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6581",
+      "first_seen": "2026-10-30T20:59:35+00:00",
+      "last_seen": "2026-10-30T20:59:35+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "658120261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "2a8d72a699a4f8d9a38d50aac839139be464ee72f6a09d09c4f3ebcd519c640c",
+      "ticker": "6574",
+      "company": "霈方",
+      "url": "https://mopsov.twse.com.tw/nas/STR/657420261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6574",
+      "first_seen": "2026-10-30T20:59:20+00:00",
+      "last_seen": "2026-10-30T20:59:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "657420261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4931dc7dcb990f3bef2f77941b6956833833c84c4de2e4746bc96c482eb48c78",
+      "ticker": "6202",
+      "company": "盛群",
+      "url": "https://mopsov.twse.com.tw/nas/STR/620220261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6202",
+      "first_seen": "2026-10-30T20:52:11+00:00",
+      "last_seen": "2026-10-30T20:52:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "620220261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "801fd3fcbc2d48b59eb2a050637221d25d2d9ab58ea2095037d63d030ceb14fe",
+      "ticker": "6176",
+      "company": "瑞儀",
+      "url": "https://mopsov.twse.com.tw/nas/STR/617620261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6176",
+      "first_seen": "2026-10-30T20:51:05+00:00",
+      "last_seen": "2026-10-30T20:51:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "617620261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "0089efc0070d3c698be0578a1245628c2d0ebf82e4829a453aa806df96d80020",
+      "ticker": "6109",
+      "company": "亞元",
+      "url": "https://mopsov.twse.com.tw/nas/STR/610920261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6109",
+      "first_seen": "2026-10-30T20:48:20+00:00",
+      "last_seen": "2026-10-30T20:48:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "610920261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9ab246195a05b4ae41f0c0d1f41ba2c517be88bb578a0f3d6c8020417823b13a",
+      "ticker": "5425",
+      "company": "台半",
+      "url": "https://mopsov.twse.com.tw/nas/STR/542520261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5425",
+      "first_seen": "2026-10-30T20:44:20+00:00",
+      "last_seen": "2026-10-30T20:44:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "542520261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "78551bdfde2cf126c9518cee29c3a82669575a45486b110f6dc69b472577e9c5",
+      "ticker": "5274",
+      "company": "信驊",
+      "url": "https://mopsov.twse.com.tw/nas/STR/527420261028M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5274",
+      "first_seen": "2026-10-30T20:42:23+00:00",
+      "last_seen": "2026-10-30T20:42:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "527420261028M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c841738cdddfe5e66e8cf745a32c691282a31bdd29e5e7b096ace716d504131e",
+      "ticker": "4560",
+      "company": "強信-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/456020261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4560",
+      "first_seen": "2026-10-30T20:35:29+00:00",
+      "last_seen": "2026-10-30T20:35:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "456020261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f4196122b8a7cd925e10a24f2256292c704fbca31d922457cb52e5ed23d4edd6",
+      "ticker": "3711",
+      "company": "日月光投控",
+      "url": "https://mopsov.twse.com.tw/nas/STR/371120261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3711",
+      "first_seen": "2026-10-30T20:30:05+00:00",
+      "last_seen": "2026-10-30T20:30:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "371120261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "545fd26cd3d5edeed718ce56cd8fc047d418eaf1e69ecbb41c057d48b648b9a2",
+      "ticker": "3680",
+      "company": "家登",
+      "url": "https://mopsov.twse.com.tw/nas/STR/368020261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3680",
+      "first_seen": "2026-10-30T20:29:08+00:00",
+      "last_seen": "2026-10-30T20:29:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "368020261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "daf4331579ef25bd97e14bacb73a4a5232a9f2039bcea49409ecdf73763fd374",
+      "ticker": "3357",
+      "company": "臺慶科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/335720261028M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3357",
+      "first_seen": "2026-10-30T20:23:08+00:00",
+      "last_seen": "2026-10-30T20:23:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "335720261028M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4d26321482b5adb261c4eb923dc8746a81a1a663c2d26f0e7034ea3dd2ff29d1",
+      "ticker": "3324",
+      "company": "雙鴻",
+      "url": "https://mopsov.twse.com.tw/nas/STR/332420260818M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29",
+        "2026-09-23",
+        "2026-09-04",
+        "2026-08-19"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3324",
+      "first_seen": "2026-10-30T20:22:41+00:00",
+      "last_seen": "2026-10-30T20:22:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "332420260818M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "ee5678b506683e6cf8b2260d5f21e187e066f9bedab22ab0032119bf479c60db",
+      "ticker": "3131",
+      "company": "弘塑",
+      "url": "https://mopsov.twse.com.tw/nas/STR/313120260821M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29",
+        "2026-08-25"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3131",
+      "first_seen": "2026-10-30T20:19:11+00:00",
+      "last_seen": "2026-10-30T20:19:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "313120260821M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "b2a9c2ab934a1fc9d8dd05066fe2f0200cd24efbf1dde6f2e54a07cab3dc3ade",
+      "ticker": "2409",
+      "company": "友達",
+      "url": "https://mopsov.twse.com.tw/nas/STR/240920261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2409",
+      "first_seen": "2026-10-30T20:05:26+00:00",
+      "last_seen": "2026-10-30T20:05:26+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "240920261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "263b8b6188e5a8118e445fd5b8d64fbf3e850ec31e1ca14c6009f47c6565b1b9",
+      "ticker": "2383",
+      "company": "台光電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/238320261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2383",
+      "first_seen": "2026-10-30T20:04:38+00:00",
+      "last_seen": "2026-10-30T20:04:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "238320261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "2addb202a87e371448a9f7b2eb291468be4a29fec81328308b066ea47e1fa1b2",
+      "ticker": "2379",
+      "company": "瑞昱",
+      "url": "https://mopsov.twse.com.tw/nas/STR/237920261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2379",
+      "first_seen": "2026-10-30T20:04:29+00:00",
+      "last_seen": "2026-10-30T20:04:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "237920261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "d91004529b0789b2c4ce1feae0b8991a6520a50ee118572da4f523cd1d5ae5f5",
+      "ticker": "2360",
+      "company": "致茂",
+      "url": "https://mopsov.twse.com.tw/nas/STR/236020261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2360",
+      "first_seen": "2026-10-30T20:03:47+00:00",
+      "last_seen": "2026-10-30T20:03:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "236020261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6c91c477b5b97e1a40f931d57c849b57ea82913cd0c716a8c543a44f8b2802f2",
+      "ticker": "2327",
+      "company": "國巨*",
+      "url": "https://mopsov.twse.com.tw/nas/STR/232720261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2327",
+      "first_seen": "2026-10-30T20:02:38+00:00",
+      "last_seen": "2026-10-30T20:02:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "232720261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "d1837d04a8ae679831ae9897b4caa53b079da86e43b746898e8c64c3fa4190c8",
+      "ticker": "2308",
+      "company": "台達電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/230820261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-12-17",
+        "2026-11-07",
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2308",
+      "first_seen": "2026-10-30T20:02:11+00:00",
+      "last_seen": "2026-10-30T20:02:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "230820261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "47c3ab73ff073e15dbd22e8fe6f12858c9371d009a9fa62b7f60e61957a105e8",
+      "ticker": "1471",
+      "company": "首利",
+      "url": "https://mopsov.twse.com.tw/nas/STR/147120261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1471",
+      "first_seen": "2026-10-30T19:52:14+00:00",
+      "last_seen": "2026-10-30T19:52:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "147120261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "0acd902cb4c8d7c2b3315aac1405785cb20b5fe044b943ca9690d797e10ec540",
+      "ticker": "1467",
+      "company": "南緯",
+      "url": "https://mopsov.twse.com.tw/nas/STR/146720261029M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-29"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1467",
+      "first_seen": "2026-10-30T19:52:08+00:00",
+      "last_seen": "2026-10-30T19:52:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-29",
+      "filename": "146720261029M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "e09760f60e499edd54c27b4ddb16994a43dd620c86ada684a1da89adad04d263",
+      "ticker": "6548",
+      "company": "長科*",
+      "url": "https://mopsov.twse.com.tw/nas/STR/654820261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6548",
+      "first_seen": "2026-10-30T20:58:47+00:00",
+      "last_seen": "2026-10-30T20:58:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "654820261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "441a4c4d5f640a001139ec91df483cef8557cc0860312343996d7cee16704a85",
+      "ticker": "6510",
+      "company": "精測",
+      "url": "https://mopsov.twse.com.tw/nas/STR/651020261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6510",
+      "first_seen": "2026-10-30T20:57:47+00:00",
+      "last_seen": "2026-10-30T20:57:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "651020261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "1d9b5df81f2fd86e256b46be45dae866417c755e7daaf72725ed53cfa2693e23",
+      "ticker": "6191",
+      "company": "精成科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/619120261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6191",
+      "first_seen": "2026-10-30T20:51:44+00:00",
+      "last_seen": "2026-10-30T20:51:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "619120261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8f4e45f3cb353022ec3081efeb35858a733f43d5232704f0ce2b644428a560c5",
+      "ticker": "6020",
+      "company": "大展證",
+      "url": "https://mopsov.twse.com.tw/nas/STR/602020261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6020",
+      "first_seen": "2026-10-30T20:47:53+00:00",
+      "last_seen": "2026-10-30T20:47:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "602020261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f3693d7227b070c062bed27f2cc368581c1866836716c5752aa20b3ba4f98a8a",
+      "ticker": "5469",
+      "company": "瀚宇博",
+      "url": "https://mopsov.twse.com.tw/nas/STR/546920261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5469",
+      "first_seen": "2026-10-30T20:45:05+00:00",
+      "last_seen": "2026-10-30T20:45:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "546920261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "73f1c18b975e5c8a8178868bfaecb48aea98a595c5a0c476d153a58a4b930c8f",
+      "ticker": "5203",
+      "company": "訊連",
+      "url": "https://mopsov.twse.com.tw/nas/STR/520320261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5203",
+      "first_seen": "2026-10-30T20:41:05+00:00",
+      "last_seen": "2026-10-30T20:41:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "520320261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4c336f6cd028505739fc6d1492eef57be4e57fa7b55ce0bee56efdcd98697bcf",
+      "ticker": "4966",
+      "company": "譜瑞-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/496620261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4966",
+      "first_seen": "2026-10-30T20:39:53+00:00",
+      "last_seen": "2026-10-30T20:39:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "496620261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "97bc1c67a4dae2d134db961b90c39152ffb35a9b9908373a367b2591b41849a9",
+      "ticker": "3718",
+      "company": "中光電投控",
+      "url": "https://mopsov.twse.com.tw/nas/STR/371820261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3718",
+      "first_seen": "2026-10-30T20:30:23+00:00",
+      "last_seen": "2026-10-30T20:30:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "371820261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "07f505319e9c84c2d9a6daa985c82933b50e1b890f9b4eadb172bedba6de2f9f",
+      "ticker": "3317",
+      "company": "尼克森",
+      "url": "https://mopsov.twse.com.tw/nas/STR/331720261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3317",
+      "first_seen": "2026-10-30T20:22:29+00:00",
+      "last_seen": "2026-10-30T20:22:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "331720261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "81f81f7b9cf71da3500af6539e7323934d04e61e0d3fefffed62238b2796504d",
+      "ticker": "3105",
+      "company": "穩懋",
+      "url": "https://mopsov.twse.com.tw/nas/STR/310520261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3105",
+      "first_seen": "2026-10-30T20:18:50+00:00",
+      "last_seen": "2026-10-30T20:18:50+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "310520261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "af5267ffa4e42f197d01bd907ea0972f290d6fbccb8034b4741ead653833548b",
+      "ticker": "3081",
+      "company": "聯亞",
+      "url": "https://mopsov.twse.com.tw/nas/STR/308120261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3081",
+      "first_seen": "2026-10-30T20:18:23+00:00",
+      "last_seen": "2026-10-30T20:18:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "308120261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "75e49396ea4d1d6e289444fa658722da266c407e27cf5a3e212cdbeb513c2a3d",
+      "ticker": "2303",
+      "company": "聯電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/230320261028M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-28"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2303",
+      "first_seen": "2026-10-30T20:02:05+00:00",
+      "last_seen": "2026-10-30T20:02:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-28",
+      "filename": "230320261028M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "5cd6d1cd1717480b00115cc8b6476f60e943e5cf254c54cc7b3f022c24598763",
+      "ticker": "6530",
+      "company": "創威",
+      "url": "https://mopsov.twse.com.tw/nas/STR/653020261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6530",
+      "first_seen": "2026-10-30T20:58:14+00:00",
+      "last_seen": "2026-10-30T20:58:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "653020261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "50a1ed3e652a9c0f71df79b4c8ed615b76c31baae1ddc1f1858381dff68f8bfb",
+      "ticker": "6239",
+      "company": "力成",
+      "url": "https://mopsov.twse.com.tw/nas/STR/623920261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6239",
+      "first_seen": "2026-10-30T20:53:47+00:00",
+      "last_seen": "2026-10-30T20:53:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "623920261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8c1527391ef7a2b4e21172d9650c200d5c6d07aa5ad5c53c353510dedc9e561b",
+      "ticker": "6226",
+      "company": "光鼎",
+      "url": "https://mopsov.twse.com.tw/nas/STR/622620261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6226",
+      "first_seen": "2026-10-30T20:53:17+00:00",
+      "last_seen": "2026-10-30T20:53:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "622620261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9e7930619ffd77833485edf6144023b1a5498a029edd50729532361a3d778682",
+      "ticker": "6125",
+      "company": "廣運",
+      "url": "https://mopsov.twse.com.tw/nas/STR/612520261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6125",
+      "first_seen": "2026-10-30T20:49:02+00:00",
+      "last_seen": "2026-10-30T20:49:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "612520261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "07fa0a409c721c9e0e824a211d990124d1f75d3a4d819fc1c682a0375de57cf0",
+      "ticker": "4169",
+      "company": "泰宗",
+      "url": "https://mopsov.twse.com.tw/nas/STR/416920261027M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4169",
+      "first_seen": "2026-10-30T20:32:20+00:00",
+      "last_seen": "2026-10-30T20:32:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "416920261027M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "ff4a5aca1eddb496a7430c1e9e4fef1d451b6361c3d9982bf4ba93cddbaf6b02",
+      "ticker": "3035",
+      "company": "智原",
+      "url": "https://mopsov.twse.com.tw/nas/STR/303520261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3035",
+      "first_seen": "2026-10-30T20:16:53+00:00",
+      "last_seen": "2026-10-30T20:16:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "303520261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "48bcc2f1446b65242fff8058215c9f57c99ffa382a2b028709292a236b436702",
+      "ticker": "2337",
+      "company": "旺宏",
+      "url": "https://mopsov.twse.com.tw/nas/STR/233720261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2337",
+      "first_seen": "2026-10-30T20:02:56+00:00",
+      "last_seen": "2026-10-30T20:02:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "233720261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "e88a0a0ea0abf806fe50521b93be3711dd9469ff6b91bec1b708842b23349ef2",
+      "ticker": "1440",
+      "company": "南紡",
+      "url": "https://mopsov.twse.com.tw/nas/STR/144020261023M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1440",
+      "first_seen": "2026-10-30T19:51:02+00:00",
+      "last_seen": "2026-10-30T19:51:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "144020261023M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "029fc2e556b5e59562d853bdc307d47c43658a426a6df420ff676a8fc452dd20",
+      "ticker": "1303",
+      "company": "南亞",
+      "url": "https://mopsov.twse.com.tw/nas/STR/130320261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-27"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1303",
+      "first_seen": "2026-10-30T19:48:56+00:00",
+      "last_seen": "2026-10-30T19:48:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-27",
+      "filename": "130320261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "d94260dfab1f948ddeed999b880d9a885847355efe88a57806acb5f678e09e1a",
+      "ticker": "7715",
+      "company": "裕山",
+      "url": "https://mopsov.twse.com.tw/nas/STR/771520261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/7715",
+      "first_seen": "2026-10-30T21:08:44+00:00",
+      "last_seen": "2026-10-30T21:08:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "771520261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "b336e1b67fa82fba146edbc77f7dcf0fc9e2ed5d5e328884a97b494b0ec533df",
+      "ticker": "3693",
+      "company": "營邦",
+      "url": "https://mopsov.twse.com.tw/nas/STR/369320261023M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3693",
+      "first_seen": "2026-10-30T20:29:29+00:00",
+      "last_seen": "2026-10-30T20:29:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "369320261023M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "be1eac1c7689efc086177f8d25503775672499c2206922351e2853895f9c3efd",
+      "ticker": "3264",
+      "company": "欣銓",
+      "url": "https://mopsov.twse.com.tw/nas/STR/326420261027M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3264",
+      "first_seen": "2026-10-30T20:21:17+00:00",
+      "last_seen": "2026-10-30T20:21:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "326420261027M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "45a10c9007e4db48975299f410f59d4ac2fb5fca974e60f2ef8b907a5793b46e",
+      "ticker": "2008",
+      "company": "高興昌",
+      "url": "https://mopsov.twse.com.tw/nas/STR/200820261022M003.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2008",
+      "first_seen": "2026-10-30T19:58:41+00:00",
+      "last_seen": "2026-10-30T19:58:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "200820261022M003.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "db5cbf4ed245aac3d6e0e1e1d13a3a3bd41b76c737c45730395dea9c1e68267c",
+      "ticker": "1721",
+      "company": "國慶科技",
+      "url": "https://mopsov.twse.com.tw/nas/STR/172120261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1721",
+      "first_seen": "2026-10-30T19:56:14+00:00",
+      "last_seen": "2026-10-30T19:56:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "172120261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "d8627ec8f7e20583e356abeef68fcc68bbe0be1633230dca7a33d80a09895324",
+      "ticker": "1303",
+      "company": "南亞",
+      "url": "https://mopsov.twse.com.tw/nas/STR/130320261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-23"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1303",
+      "first_seen": "2026-10-30T19:48:56+00:00",
+      "last_seen": "2026-10-30T19:48:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-23",
+      "filename": "130320261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "e076d5d68a69b6950d13c91d12a9f854bbea33f5ba5142eebfb7ea8a0d9bd9d4",
+      "ticker": "6902",
+      "company": "GOGOLOOK",
+      "url": "https://mopsov.twse.com.tw/nas/STR/690220261015M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22",
+        "2026-10-16"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6902",
+      "first_seen": "2026-10-30T21:06:32+00:00",
+      "last_seen": "2026-10-30T21:06:32+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "690220261015M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7b32107f128afad22f6bb25e53f74d4a03ea84485e40e2f423018880b930e0dc",
+      "ticker": "6625",
+      "company": "必應",
+      "url": "https://mopsov.twse.com.tw/nas/STR/662520261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6625",
+      "first_seen": "2026-10-30T21:00:41+00:00",
+      "last_seen": "2026-10-30T21:00:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "662520261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "96bcab18ee86d4997a63d05cf694527a0863955890dcd2dd370f4466268c41bb",
+      "ticker": "5521",
+      "company": "工信",
+      "url": "https://mopsov.twse.com.tw/nas/STR/552120261021M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5521",
+      "first_seen": "2026-10-30T20:46:08+00:00",
+      "last_seen": "2026-10-30T20:46:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "552120261021M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "509df55c698321d963a6b9587cd4b1c1943a174c1c28d65994227fde1ae1b24a",
+      "ticker": "4541",
+      "company": "晟田",
+      "url": "https://mopsov.twse.com.tw/nas/STR/454120261021M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4541",
+      "first_seen": "2026-10-30T20:34:50+00:00",
+      "last_seen": "2026-10-30T20:34:50+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "454120261021M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7744c0398b04c67fafa56c63e8cdccd74d4d73a3fee7f605644fc1f565560b35",
+      "ticker": "2514",
+      "company": "龍邦",
+      "url": "https://mopsov.twse.com.tw/nas/STR/251420261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2514",
+      "first_seen": "2026-10-30T20:09:05+00:00",
+      "last_seen": "2026-10-30T20:09:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "251420261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "65364e48991678019c038eff9e84dc170a919d9b26b77701151f589ff6249e61",
+      "ticker": "1533",
+      "company": "車王電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/153320261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-22"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1533",
+      "first_seen": "2026-10-30T19:53:38+00:00",
+      "last_seen": "2026-10-30T19:53:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-22",
+      "filename": "153320261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6b7901da6a0d133fbcd132a57c67947d66551f3e0e9af92c27424ce0d700a48e",
+      "ticker": "8182",
+      "company": "加高",
+      "url": "https://mopsov.twse.com.tw/nas/STR/818220261021M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8182",
+      "first_seen": "2026-10-30T21:12:17+00:00",
+      "last_seen": "2026-10-30T21:12:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "818220261021M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "199a698cd324fb72b36bfdced6c0061d474e2c9ae47d26bf3e4ab1ed04886865",
+      "ticker": "6770",
+      "company": "力積電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/677020261021M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6770",
+      "first_seen": "2026-10-30T21:03:56+00:00",
+      "last_seen": "2026-10-30T21:03:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "677020261021M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "a1f2a81b01bfc8d2b2ac38d324542016ea28471b4af37e2c021fae3a7487e049",
+      "ticker": "6515",
+      "company": "穎崴",
+      "url": "https://mopsov.twse.com.tw/nas/STR/651520261015M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6515",
+      "first_seen": "2026-10-30T20:57:53+00:00",
+      "last_seen": "2026-10-30T20:57:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "651520261015M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "36a92d2e8ec387f0d99f963bb9f8213ef2993aba44fc0b8f37999fa5d4ad8e90",
+      "ticker": "5905",
+      "company": "南仁湖",
+      "url": "https://mopsov.twse.com.tw/nas/STR/590520261021M004.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5905",
+      "first_seen": "2026-10-30T20:47:38+00:00",
+      "last_seen": "2026-10-30T20:47:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "590520261021M004.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "59b0e6f2ff6570e42007c85ced10529cb9b1bfd4363acaa1a9b4d4421d8b6789",
+      "ticker": "5426",
+      "company": "振發",
+      "url": "https://mopsov.twse.com.tw/nas/STR/542620261020M001.ppt",
+      "file_type": "ppt",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5426",
+      "first_seen": "2026-10-30T20:44:23+00:00",
+      "last_seen": "2026-10-30T20:44:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "542620261020M001.ppt",
+      "new_in_window": false
+    },
+    {
+      "id": "baf49d3de965c91eb7b98fd0639b8ece5f81427437126590244f2a2d7ecffe14",
+      "ticker": "5299",
+      "company": "杰力",
+      "url": "https://mopsov.twse.com.tw/nas/STR/529920261021M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5299",
+      "first_seen": "2026-10-30T20:42:56+00:00",
+      "last_seen": "2026-10-30T20:42:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "529920261021M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "690a37a1a312e3fe096f6d4a79bd17b3882d5b408aaacfbe110b5473e0cc2f18",
+      "ticker": "4188",
+      "company": "安克",
+      "url": "https://mopsov.twse.com.tw/nas/STR/418820261022M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4188",
+      "first_seen": "2026-10-30T20:32:38+00:00",
+      "last_seen": "2026-10-30T20:32:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "418820261022M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c44b4d608997ceeecb9acf27ea1c4eebded70fe732bd98a7e20b9323c795f392",
+      "ticker": "4108",
+      "company": "懷特",
+      "url": "https://mopsov.twse.com.tw/nas/STR/410820261021M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4108",
+      "first_seen": "2026-10-30T20:30:41+00:00",
+      "last_seen": "2026-10-30T20:30:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "410820261021M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "55568d93f690b10181095b4a91904796f99cb38926fb6afb26bae8760cf3b530",
+      "ticker": "4102",
+      "company": "永日",
+      "url": "https://mopsov.twse.com.tw/nas/STR/410220261019M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4102",
+      "first_seen": "2026-10-30T20:30:26+00:00",
+      "last_seen": "2026-10-30T20:30:26+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "410220261019M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4621a0622be5852df35da6929f8ac8702b72b72b1d4bd73098b8d57a0a06a332",
+      "ticker": "3052",
+      "company": "夆典",
+      "url": "https://mopsov.twse.com.tw/nas/STR/305220261020M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3052",
+      "first_seen": "2026-10-30T20:17:41+00:00",
+      "last_seen": "2026-10-30T20:17:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "305220261020M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "826c20a263cfea0d54cd31b393e986436fcda1a69a2b26453651565d9b2bad04",
+      "ticker": "1731",
+      "company": "美吾華",
+      "url": "https://mopsov.twse.com.tw/nas/STR/173120261021M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-21"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1731",
+      "first_seen": "2026-10-30T19:56:35+00:00",
+      "last_seen": "2026-10-30T19:56:35+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-21",
+      "filename": "173120261021M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6589f358c3e0d89283857e24977b7c57b7093eb8fc1d6cb0fc302c8ab85258ad",
+      "ticker": "3325",
+      "company": "旭品",
+      "url": "https://mopsov.twse.com.tw/nas/STR/332520261020M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-20"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3325",
+      "first_seen": "2026-10-30T20:22:44+00:00",
+      "last_seen": "2026-10-30T20:22:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-20",
+      "filename": "332520261020M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "78aa6e38f819d7fa1e5b1f20ad8faa66e1736ebfef089b9d8f4beae010cbe655",
+      "ticker": "6167",
+      "company": "久正",
+      "url": "https://mopsov.twse.com.tw/nas/STR/616720261019M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-19"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6167",
+      "first_seen": "2026-10-30T20:50:41+00:00",
+      "last_seen": "2026-10-30T20:50:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-19",
+      "filename": "616720261019M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "83caeb0cbb58e2129d8bfa256c542772b3edf2bc5b0b69d395f6796ea610af04",
+      "ticker": "3540",
+      "company": "曜越",
+      "url": "https://mopsov.twse.com.tw/nas/STR/354020261019M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-19"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3540",
+      "first_seen": "2026-10-30T20:26:14+00:00",
+      "last_seen": "2026-10-30T20:26:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-19",
+      "filename": "354020261019M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "874be5195d4cd954b7fcca85f85922ab5092fedb259bf2bdb14e2812ebfd477c",
+      "ticker": "2889",
+      "company": "國票金",
+      "url": "https://mopsov.twse.com.tw/nas/STR/288920261019M003.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-19"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2889",
+      "first_seen": "2026-10-30T20:14:11+00:00",
+      "last_seen": "2026-10-30T20:14:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-19",
+      "filename": "288920261019M003.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4ce23ea2a9c3b3d8e5a6248364d359a9efb8ed299ec6d3a60e3844b7314c2158",
+      "ticker": "2474",
+      "company": "可成",
+      "url": "https://mopsov.twse.com.tw/nas/STR/247420261016M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-19"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2474",
+      "first_seen": "2026-10-30T20:07:47+00:00",
+      "last_seen": "2026-10-30T20:07:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-19",
+      "filename": "247420261016M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f729a824f5d6cde7b5c9e3ccfb84ab296806ca1723e36149735331cb9e450c33",
+      "ticker": "6657",
+      "company": "華安",
+      "url": "https://mopsov.twse.com.tw/nas/STR/665720261016M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-16"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6657",
+      "first_seen": "2026-10-30T21:01:17+00:00",
+      "last_seen": "2026-10-30T21:01:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-16",
+      "filename": "665720261016M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8d313bc89060088df31a0bb41dc7591925fda64f00597c7347fa8231191d8b46",
+      "ticker": "6414",
+      "company": "樺漢",
+      "url": "https://mopsov.twse.com.tw/nas/STR/641420261016M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-16"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6414",
+      "first_seen": "2026-10-30T20:55:41+00:00",
+      "last_seen": "2026-10-30T20:55:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-16",
+      "filename": "641420261016M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3aca5012276ecf29adfadda72f341d01bdddb19329af2e86ba6a060c7db89003",
+      "ticker": "4566",
+      "company": "時碩工業",
+      "url": "https://mopsov.twse.com.tw/nas/STR/456620261016M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-16"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4566",
+      "first_seen": "2026-10-30T20:35:44+00:00",
+      "last_seen": "2026-10-30T20:35:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-16",
+      "filename": "456620261016M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9aa5a5b0ae6dd37650c069a0c35a67352274cca09cca1d5d9bafa69ffa6a184c",
+      "ticker": "3531",
+      "company": "先益",
+      "url": "https://mopsov.twse.com.tw/nas/STR/353120261008M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-16"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3531",
+      "first_seen": "2026-10-30T20:25:59+00:00",
+      "last_seen": "2026-10-30T20:25:59+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-16",
+      "filename": "353120261008M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "75dd27c97f84ac166450219e590faad0c3557bcb1af13050a94ced30ec7f18e5",
+      "ticker": "3230",
+      "company": "錦明",
+      "url": "https://mopsov.twse.com.tw/nas/STR/323020261015M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3230",
+      "first_seen": "2026-10-30T20:20:53+00:00",
+      "last_seen": "2026-10-30T20:20:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "323020261015M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "dad43fc5802345a3b5412f682686bf9368faeabcc6fa256b89619c9db1557667",
+      "ticker": "3224",
+      "company": "三顧",
+      "url": "https://mopsov.twse.com.tw/nas/STR/322420261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3224",
+      "first_seen": "2026-10-30T20:20:38+00:00",
+      "last_seen": "2026-10-30T20:20:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "322420261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7a76d74c642d058bd7f3a87a509fe255fe162ac2ba457b48365c49284c5ba1f4",
+      "ticker": "2881",
+      "company": "富邦金",
+      "url": "https://mopsov.twse.com.tw/nas/STR/288120261014M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2881",
+      "first_seen": "2026-10-30T20:13:50+00:00",
+      "last_seen": "2026-10-30T20:13:50+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "288120261014M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "cdf7168391ef1022616a3a55dff47cccff708a080bf0b91e0c38b748a2915e6d",
+      "ticker": "2402",
+      "company": "毅嘉",
+      "url": "https://mopsov.twse.com.tw/nas/STR/240220261015M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2402",
+      "first_seen": "2026-10-30T20:05:11+00:00",
+      "last_seen": "2026-10-30T20:05:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "240220261015M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f3cb62ea84a53d3c3dff2fd5419688be1b9469ea877f00f7843aa30b763d3aa7",
+      "ticker": "2330",
+      "company": "台積電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/233020261015M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2330",
+      "first_seen": "2026-10-30T20:02:47+00:00",
+      "last_seen": "2026-10-30T20:02:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "233020261015M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3414c58ac0161903b94d995e2129a2fcc35cf9246b8e75ece5662c1d8c6b487d",
+      "ticker": "1540",
+      "company": "喬福",
+      "url": "https://mopsov.twse.com.tw/nas/STR/154020261009M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-15"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1540",
+      "first_seen": "2026-10-30T19:53:53+00:00",
+      "last_seen": "2026-10-30T19:53:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-15",
+      "filename": "154020261009M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "b06aeac408d3066212c3c3e7f264d5fda4efdd03de9809106789be15befe0c3a",
+      "ticker": "9938",
+      "company": "百和",
+      "url": "https://mopsov.twse.com.tw/nas/STR/993820261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/9938",
+      "first_seen": "2026-10-30T21:18:23+00:00",
+      "last_seen": "2026-10-30T21:18:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "993820261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9e6105248e40e5c776eddfe9fca336cc5853e3babe32f8daad67da57aeb6e0c7",
+      "ticker": "8404",
+      "company": "百和興業-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/840420261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8404",
+      "first_seen": "2026-10-30T21:13:47+00:00",
+      "last_seen": "2026-10-30T21:13:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "840420261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7d60d0a0c98fe4cdd7f6b3352c6e1f6aed34da4a2006ea831fc6d5b14b0ed804",
+      "ticker": "8354",
+      "company": "冠好",
+      "url": "https://mopsov.twse.com.tw/nas/STR/835420261007M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8354",
+      "first_seen": "2026-10-30T21:13:23+00:00",
+      "last_seen": "2026-10-30T21:13:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "835420261007M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "e8ebbe6fc0f9d80f12a5ee50b8c8df671ffb12292bc39978952ca02c0eeb41ec",
+      "ticker": "8222",
+      "company": "寶一",
+      "url": "https://mopsov.twse.com.tw/nas/STR/822220261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8222",
+      "first_seen": "2026-10-30T21:12:32+00:00",
+      "last_seen": "2026-10-30T21:12:32+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "822220261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3618b40db07efcc923606a41ee12a6c52d6d730f0fc4e028942c40398e7a4c29",
+      "ticker": "6903",
+      "company": "巨漢",
+      "url": "https://mopsov.twse.com.tw/nas/STR/690320261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6903",
+      "first_seen": "2026-10-30T21:06:35+00:00",
+      "last_seen": "2026-10-30T21:06:35+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "690320261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3461011849d9183c33a2a5b10be1eb188f99432dd4dc006407b2da80d1d638d9",
+      "ticker": "6894",
+      "company": "衛司特",
+      "url": "https://mopsov.twse.com.tw/nas/STR/689420261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6894",
+      "first_seen": "2026-10-30T21:06:20+00:00",
+      "last_seen": "2026-10-30T21:06:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "689420261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "6218404cbf482aa55cb7cdc26a4d405660cbc4b14a13d9d23bce593294da51d9",
+      "ticker": "6877",
+      "company": "鏵友益",
+      "url": "https://mopsov.twse.com.tw/nas/STR/687720261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6877",
+      "first_seen": "2026-10-30T21:06:08+00:00",
+      "last_seen": "2026-10-30T21:06:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "687720261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "1b08e87bf05aa31c7978f9c43f4b8be33c39893eb949ec57d37ec19611e3f2c3",
+      "ticker": "6548",
+      "company": "長科*",
+      "url": "https://mopsov.twse.com.tw/nas/STR/654820261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6548",
+      "first_seen": "2026-10-30T20:58:47+00:00",
+      "last_seen": "2026-10-30T20:58:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "654820261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9996bf3e2b9e4b0e3923c2726b80277b071ba5c11eb2bb8ed61bdd0171704e47",
+      "ticker": "6438",
+      "company": "迅得",
+      "url": "https://mopsov.twse.com.tw/nas/STR/643820261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6438",
+      "first_seen": "2026-10-30T20:56:17+00:00",
+      "last_seen": "2026-10-30T20:56:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "643820261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3d96f8ac3edac21f248e44585f1987d605466e3e3c0fddd332992a2ca5646b9c",
+      "ticker": "6190",
+      "company": "萬泰科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/619020260901M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14",
+        "2026-09-01"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6190",
+      "first_seen": "2026-10-30T20:51:41+00:00",
+      "last_seen": "2026-10-30T20:51:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "619020260901M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8aec00b8157bfdf6e1b8d3baf7f14e2dea7420338fc2bf05ecb27082deb0264a",
+      "ticker": "4958",
+      "company": "臻鼎-KY",
+      "url": "https://mopsov.twse.com.tw/nas/STR/495820261002M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4958",
+      "first_seen": "2026-10-30T20:39:44+00:00",
+      "last_seen": "2026-10-30T20:39:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "495820261002M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "2a8bc3f051f7c87f5f9604f52b82168a686e48fdb51493c15eb6bca7b9c3a2a3",
+      "ticker": "4722",
+      "company": "國精化",
+      "url": "https://mopsov.twse.com.tw/nas/STR/472220261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4722",
+      "first_seen": "2026-10-30T20:36:47+00:00",
+      "last_seen": "2026-10-30T20:36:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "472220261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "2dc8f63279126644ea4f47ad5c43720a59b10013cd9714f3486009f2df8e0d8d",
+      "ticker": "2816",
+      "company": "旺旺保",
+      "url": "https://mopsov.twse.com.tw/nas/STR/281620261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2816",
+      "first_seen": "2026-10-30T20:13:11+00:00",
+      "last_seen": "2026-10-30T20:13:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "281620261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7437f618c180a7e9d3cd63c1e6ea7e283d2d615a243f3dd088bb745208c665d1",
+      "ticker": "2745",
+      "company": "五福",
+      "url": "https://mopsov.twse.com.tw/nas/STR/274520261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2745",
+      "first_seen": "2026-10-30T20:12:38+00:00",
+      "last_seen": "2026-10-30T20:12:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "274520261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "b1d4f6fe2873561710551c0b4bab9bf5d1cc4e5cbc7d52d013b30a62c8cf3761",
+      "ticker": "2707",
+      "company": "晶華",
+      "url": "https://mopsov.twse.com.tw/nas/STR/270720261014M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2707",
+      "first_seen": "2026-10-30T20:11:50+00:00",
+      "last_seen": "2026-10-30T20:11:50+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "270720261014M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7fb4ec60a198551f7a2d6816784b0e9cb53b144b6b35789ae68ecd83afce57dd",
+      "ticker": "2340",
+      "company": "台亞",
+      "url": "https://mopsov.twse.com.tw/nas/STR/234020261014M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2340",
+      "first_seen": "2026-10-30T20:03:02+00:00",
+      "last_seen": "2026-10-30T20:03:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "234020261014M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "601fda836a3df7aa02b54601224f579cf0af72e0348dc5da078070c26cf557c9",
+      "ticker": "1319",
+      "company": "東陽",
+      "url": "https://mopsov.twse.com.tw/nas/STR/131920261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1319",
+      "first_seen": "2026-10-30T19:49:32+00:00",
+      "last_seen": "2026-10-30T19:49:32+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "131920261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "f725c5db05bffb2fc12a9e972671a6e8d005b592cf3e042a13afda0c583a7e01",
+      "ticker": "1203",
+      "company": "味王",
+      "url": "https://mopsov.twse.com.tw/nas/STR/120320261013M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-14"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1203",
+      "first_seen": "2026-10-30T19:47:41+00:00",
+      "last_seen": "2026-10-30T19:47:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-14",
+      "filename": "120320261013M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "b3077a42f8445a23ed43f71935883b9a67974e78a658491b98907ab60b40a76d",
+      "ticker": "6465",
+      "company": "威潤",
+      "url": "https://mopsov.twse.com.tw/nas/STR/646520261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6465",
+      "first_seen": "2026-10-30T20:56:50+00:00",
+      "last_seen": "2026-10-30T20:56:50+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "646520261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "d062e9cafbdb50e0ee60f8672eac5a68ad99c0716bd88bdbd4d96301c4d569d1",
+      "ticker": "4766",
+      "company": "南寶",
+      "url": "https://mopsov.twse.com.tw/nas/STR/476620261012M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4766",
+      "first_seen": "2026-10-30T20:37:47+00:00",
+      "last_seen": "2026-10-30T20:37:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "476620261012M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "7a69d33e72e5a0c28263682cb89b3d3f24cc9df6ea450084eae35ec35725d5b6",
+      "ticker": "4438",
+      "company": "廣越",
+      "url": "https://mopsov.twse.com.tw/nas/STR/443820261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4438",
+      "first_seen": "2026-10-30T20:33:44+00:00",
+      "last_seen": "2026-10-30T20:33:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "443820261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "e3e590504b2e4efab39b111f4862702fe2d0dd47a504a7ee7f80a870c76c269c",
+      "ticker": "3570",
+      "company": "大塚",
+      "url": "https://mopsov.twse.com.tw/nas/STR/357020261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3570",
+      "first_seen": "2026-10-30T20:27:02+00:00",
+      "last_seen": "2026-10-30T20:27:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "357020261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "31ac091ba67353d4160f06be79efb9413a8da3d8480f59b8193885c70ddcacf5",
+      "ticker": "2328",
+      "company": "廣宇",
+      "url": "https://mopsov.twse.com.tw/nas/STR/232820261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2328",
+      "first_seen": "2026-10-30T20:02:41+00:00",
+      "last_seen": "2026-10-30T20:02:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "232820261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "34ec3a87788ded2b29265af315eb9f91c31a53a353568a5049b11aa19e5c3bd7",
+      "ticker": "2221",
+      "company": "大甲",
+      "url": "https://mopsov.twse.com.tw/nas/STR/222120261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2221",
+      "first_seen": "2026-10-30T20:01:14+00:00",
+      "last_seen": "2026-10-30T20:01:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "222120261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "0d2c158f9cb9b72abd3fd50ef55ba47a681c3fe3a953835a7fdf15c3a44a4e66",
+      "ticker": "1725",
+      "company": "元禎",
+      "url": "https://mopsov.twse.com.tw/nas/STR/172520261013M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1725",
+      "first_seen": "2026-10-30T19:56:23+00:00",
+      "last_seen": "2026-10-30T19:56:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "172520261013M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "ab28e4504dbbf9da1ebb51f97f99de7ff51702aef6005e434160edc7b5324b64",
+      "ticker": "1598",
+      "company": "岱宇",
+      "url": "https://mopsov.twse.com.tw/nas/STR/159820261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1598",
+      "first_seen": "2026-10-30T19:54:53+00:00",
+      "last_seen": "2026-10-30T19:54:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "159820261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "b0a28caa601e9fc53cfd92afa435b50194972bbb002166247de0adc94d8f0a30",
+      "ticker": "1303",
+      "company": "南亞",
+      "url": "https://mopsov.twse.com.tw/nas/STR/130320261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-13"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1303",
+      "first_seen": "2026-10-30T19:48:56+00:00",
+      "last_seen": "2026-10-30T19:48:56+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-13",
+      "filename": "130320261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "22010285c8c5622c3c3bdabb11f92572d5a15d33e00d896fd1b7fbd7204574c7",
+      "ticker": "6281",
+      "company": "全國電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/628120261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-12"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6281",
+      "first_seen": "2026-10-30T20:55:02+00:00",
+      "last_seen": "2026-10-30T20:55:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-12",
+      "filename": "628120261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "7e9e133506989d08a5f20ba6c92f64318525309187c6ec83bc0eed006dcfe461",
+      "ticker": "4934",
+      "company": "太極",
+      "url": "https://mopsov.twse.com.tw/nas/STR/493420261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-12"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/4934",
+      "first_seen": "2026-10-30T20:39:05+00:00",
+      "last_seen": "2026-10-30T20:39:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-12",
+      "filename": "493420261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "0bf8bce9548c835c6b8101af5d435c5d1e37a6b0d9715f9cf2928c145392228b",
+      "ticker": "2408",
+      "company": "南亞科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/240820261012M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-12"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2408",
+      "first_seen": "2026-10-30T20:05:23+00:00",
+      "last_seen": "2026-10-30T20:05:23+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-12",
+      "filename": "240820261012M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "9848aefa8a475719925d84c7eba1b1e7214f335af507efa05d4644a2d03d4f3c",
+      "ticker": "6126",
+      "company": "信音",
+      "url": "https://mopsov.twse.com.tw/nas/STR/612620261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6126",
+      "first_seen": "2026-10-30T20:49:05+00:00",
+      "last_seen": "2026-10-30T20:49:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "612620261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "cf10dd61020850918b6fd65455580787f074835d6850f6233075f46dbb65a161",
+      "ticker": "3354",
+      "company": "律勝",
+      "url": "https://mopsov.twse.com.tw/nas/STR/335420261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3354",
+      "first_seen": "2026-10-30T20:23:02+00:00",
+      "last_seen": "2026-10-30T20:23:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "335420261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "5fa19bf7d28bedbcbc1cb5553b0911fa9ab7da9c29cd65230baafeeb9f45e90d",
+      "ticker": "3008",
+      "company": "大立光",
+      "url": "https://mopsov.twse.com.tw/nas/STR/300820261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3008",
+      "first_seen": "2026-10-30T20:15:41+00:00",
+      "last_seen": "2026-10-30T20:15:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "300820261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "595cabd7309641838c6b84c9ea7ef9b27295f9333a01dc24eb414c94f13efead",
+      "ticker": "2607",
+      "company": "榮運",
+      "url": "https://mopsov.twse.com.tw/nas/STR/260720261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2607",
+      "first_seen": "2026-10-30T20:10:26+00:00",
+      "last_seen": "2026-10-30T20:10:26+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "260720261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "3d1256907a7e8b2243aeca6dfd4c3922742281971dce6b84ec146a2ff66dac20",
+      "ticker": "2603",
+      "company": "長榮",
+      "url": "https://mopsov.twse.com.tw/nas/STR/260320261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2603",
+      "first_seen": "2026-10-30T20:10:17+00:00",
+      "last_seen": "2026-10-30T20:10:17+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "260320261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "651bf0709d136b3fc39bb1584269ee3c1a03ad2964162792fb41af410c88451e",
+      "ticker": "2010",
+      "company": "春源",
+      "url": "https://mopsov.twse.com.tw/nas/STR/201020261008M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-08"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2010",
+      "first_seen": "2026-10-30T19:58:47+00:00",
+      "last_seen": "2026-10-30T19:58:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-08",
+      "filename": "201020261008M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c8cfea2619f93d3189341b2f78d8ff4412057d21137eae496abdf32078ebf348",
+      "ticker": "8421",
+      "company": "旭源",
+      "url": "https://mopsov.twse.com.tw/nas/STR/842120261007M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8421",
+      "first_seen": "2026-10-30T21:14:02+00:00",
+      "last_seen": "2026-10-30T21:14:02+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "842120261007M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "eb2a341023576ea2ee00dbf44561d71b3853072c4a36f26a4cefc3e1bcf45432",
+      "ticker": "6517",
+      "company": "保勝光學",
+      "url": "https://mopsov.twse.com.tw/nas/STR/651720261007M003.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6517",
+      "first_seen": "2026-10-30T20:57:59+00:00",
+      "last_seen": "2026-10-30T20:57:59+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "651720261007M003.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "509e3e4249fa7e6f4ea782ceb593376ef8f5b4e99c3e22220d88e8350b8c6b8a",
+      "ticker": "6174",
+      "company": "安碁",
+      "url": "https://mopsov.twse.com.tw/nas/STR/617420261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6174",
+      "first_seen": "2026-10-30T20:50:59+00:00",
+      "last_seen": "2026-10-30T20:50:59+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "617420261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4e09425978b79b854b23f546cf2a3647aeed793b2aac1b5d2f2de4aad9ebe387",
+      "ticker": "6120",
+      "company": "達運",
+      "url": "https://mopsov.twse.com.tw/nas/STR/612020261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6120",
+      "first_seen": "2026-10-30T20:48:47+00:00",
+      "last_seen": "2026-10-30T20:48:47+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "612020261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "aae3fe75b2e585ad374ff4f7a3a6f5176081546aa4ea0d784c273318d7fe2448",
+      "ticker": "5309",
+      "company": "系統電",
+      "url": "https://mopsov.twse.com.tw/nas/STR/530920261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/5309",
+      "first_seen": "2026-10-30T20:43:08+00:00",
+      "last_seen": "2026-10-30T20:43:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "530920261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "0a3a6c4861114fc19c141402c4d9c403599a43262381bd0935711d721b3e6908",
+      "ticker": "3707",
+      "company": "漢磊",
+      "url": "https://mopsov.twse.com.tw/nas/STR/370720261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3707",
+      "first_seen": "2026-10-30T20:29:53+00:00",
+      "last_seen": "2026-10-30T20:29:53+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "370720261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "78d45b8528b5dc0326b95c6c90c6116ee272772cce88e8eed40c8f62c87c5893",
+      "ticker": "3624",
+      "company": "光頡",
+      "url": "https://mopsov.twse.com.tw/nas/STR/362420261006M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-07"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3624",
+      "first_seen": "2026-10-30T20:28:08+00:00",
+      "last_seen": "2026-10-30T20:28:08+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-07",
+      "filename": "362420261006M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "1f1496ad151dc0173dd2e7494f1fa044cd8e9a1c833a34530927a558c35b4a30",
+      "ticker": "9919",
+      "company": "康那香",
+      "url": "https://mopsov.twse.com.tw/nas/STR/991920261002M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/9919",
+      "first_seen": "2026-10-30T21:17:41+00:00",
+      "last_seen": "2026-10-30T21:17:41+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "991920261002M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "07ceb35f20623409da88f5466d3348dbe359d446dc1c1ac1bf8f91ffa62f2141",
+      "ticker": "8390",
+      "company": "金益鼎",
+      "url": "https://mopsov.twse.com.tw/nas/STR/839020261006M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/8390",
+      "first_seen": "2026-10-30T21:13:38+00:00",
+      "last_seen": "2026-10-30T21:13:38+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "839020261006M002.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "b98e59028ff9263d30c82564d9da7d946c0ea23273de800316ff9500eff8a117",
+      "ticker": "6257",
+      "company": "矽格",
+      "url": "https://mopsov.twse.com.tw/nas/STR/625720261006M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/6257",
+      "first_seen": "2026-10-30T20:54:14+00:00",
+      "last_seen": "2026-10-30T20:54:14+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "625720261006M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c9bd9c3b3f9551768f4252b75167efea51466db506f9432108cca95bf2e36534",
+      "ticker": "3516",
+      "company": "亞帝歐",
+      "url": "https://mopsov.twse.com.tw/nas/STR/351620261007M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3516",
+      "first_seen": "2026-10-30T20:25:29+00:00",
+      "last_seen": "2026-10-30T20:25:29+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "351620261007M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "8c21ad24cecfb4815c9dc5444d72a591e09a20979f4125273d2474542754aa45",
+      "ticker": "3265",
+      "company": "台星科",
+      "url": "https://mopsov.twse.com.tw/nas/STR/326520261006M001.pptx",
+      "file_type": "pptx",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/3265",
+      "first_seen": "2026-10-30T20:21:20+00:00",
+      "last_seen": "2026-10-30T20:21:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "326520261006M001.pptx",
+      "new_in_window": false
+    },
+    {
+      "id": "43727f691e4863343f9135d92bca05e11802060b43b81160380d710f2f6b25a0",
+      "ticker": "1402",
+      "company": "遠東新",
+      "url": "https://mopsov.twse.com.tw/nas/STR/140220261005M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-06"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/1402",
+      "first_seen": "2026-10-30T19:50:11+00:00",
+      "last_seen": "2026-10-30T19:50:11+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-06",
+      "filename": "140220261005M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "c317d5a770560171aa5c9c971d38a5e15042a6a231eeb5fa72b9ba8a27a69317",
+      "ticker": "9908",
+      "company": "大台北",
+      "url": "https://mopsov.twse.com.tw/nas/STR/990820261002M001.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-02"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/9908",
+      "first_seen": "2026-10-30T21:17:20+00:00",
+      "last_seen": "2026-10-30T21:17:20+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-02",
+      "filename": "990820261002M001.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "4f485d63fffcca04ab4ea6b599b6243a448da44dfc24319fe90e72da96a715b2",
+      "ticker": "2399",
+      "company": "映泰",
+      "url": "https://mopsov.twse.com.tw/nas/STR/239920261001M003.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-02"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2399",
+      "first_seen": "2026-10-30T20:05:05+00:00",
+      "last_seen": "2026-10-30T20:05:05+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-02",
+      "filename": "239920261001M003.pdf",
+      "new_in_window": false
+    },
+    {
+      "id": "a6671f54793c6e6a13686824f20028fdc2f1b6480c35296357174172353e0b0d",
+      "ticker": "2329",
+      "company": "華泰",
+      "url": "https://mopsov.twse.com.tw/nas/STR/232920261002M002.pdf",
+      "file_type": "pdf",
+      "meeting_dates": [
+        "2026-10-02"
+      ],
+      "poorstock_url": "https://poorstock.com/earningcall/2329",
+      "first_seen": "2026-10-30T20:02:44+00:00",
+      "last_seen": "2026-10-30T20:02:44+00:00",
+      "observation": "initial_inventory",
+      "reported": 1,
+      "email_sent": 1,
+      "display_date": "2026-10-02",
+      "filename": "232920261002M002.pdf",
+      "new_in_window": false
+    }
+  ]
 }
