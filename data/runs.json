@@ -701,5 +701,18 @@
     "initial_inventory_this_run": 7881,
     "errors": [],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-10-31T18:52:41+00:00",
+    "finished_at": "2026-10-31T20:28:21+00:00",
+    "status": "completed",
+    "mode": "broad",
+    "planned": 1864,
+    "checked": 1864,
+    "requests": 1914,
+    "new_links_this_run": 0,
+    "initial_inventory_this_run": 74,
+    "errors": [],
+    "missing_pages": []
   }
 ]
