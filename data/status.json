@@ -1,26 +1,28 @@
 {
-  "started_at": "2026-11-04T20:57:51+00:00",
+  "started_at": "2026-11-05T21:15:18+00:00",
   "mode": "broad",
   "planned": 1866,
   "checked": 1863,
   "missing_pages": [],
   "errors": [
-    "Network error fetching https://poorstock.com/earningcall/3523: Response ended prematurely",
-    "Network error fetching https://poorstock.com/earningcall/5543: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "Network error fetching https://poorstock.com/earningcall/6129: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "Network error fetching https://poorstock.com/tag/019509ed-ecaa-7ac2-8d77-978f42aa9674: Response ended prematurely",
+    "Network error fetching https://poorstock.com/tag/019509ef-53d1-7b50-8702-fd52d0ad08d1: Response ended prematurely",
+    "Network error fetching https://poorstock.com/earningcall/3679: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "Network error fetching https://poorstock.com/earningcall/4105: Response ended prematurely",
+    "Network error fetching https://poorstock.com/earningcall/4303: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   ],
   "requests": 1916,
   "coverage_note": "PoorStock-discoverable companies only; not a completeness guarantee for MOPS.",
   "calendar_companies": 52,
-  "finished_at": "2026-11-04T22:33:37+00:00",
+  "finished_at": "2026-11-05T22:51:04+00:00",
   "status": "partial_or_failed",
   "email_status": "disabled",
   "schema_version": 1,
   "tracking_started_at": "2026-09-14T20:14:28+00:00",
-  "new_links_this_run": 13,
-  "initial_inventory_this_run": 1,
+  "new_links_this_run": 17,
+  "initial_inventory_this_run": 0,
   "known_companies": 1866,
-  "total_known_links": 7995,
+  "total_known_links": 8012,
   "last_completed_at": "2026-11-03T00:31:02+00:00",
   "schedule_label": "Daily at 11:00 a.m. EDT (15:00 UTC; start time, subject to GitHub delay)"
 }
