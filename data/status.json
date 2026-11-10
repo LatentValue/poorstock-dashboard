@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-11-08T19:12:30+00:00",
+  "started_at": "2026-11-09T23:36:35+00:00",
   "mode": "broad",
   "planned": 1867,
   "checked": 1867,
@@ -8,15 +8,15 @@
   "requests": 1917,
   "coverage_note": "PoorStock-discoverable companies only; not a completeness guarantee for MOPS.",
   "calendar_companies": 51,
-  "finished_at": "2026-11-08T20:48:19+00:00",
+  "finished_at": "2026-11-10T01:12:23+00:00",
   "status": "completed",
   "email_status": "disabled",
   "schema_version": 1,
   "tracking_started_at": "2026-09-14T20:14:28+00:00",
-  "new_links_this_run": 0,
+  "new_links_this_run": 24,
   "initial_inventory_this_run": 0,
   "known_companies": 1867,
-  "total_known_links": 8039,
-  "last_completed_at": "2026-11-08T20:48:19+00:00",
+  "total_known_links": 8063,
+  "last_completed_at": "2026-11-10T01:12:23+00:00",
   "schedule_label": "Daily at 11:00 a.m. EDT (15:00 UTC; start time, subject to GitHub delay)"
 }
