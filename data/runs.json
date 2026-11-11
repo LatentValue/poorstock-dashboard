@@ -863,5 +863,24 @@
     "initial_inventory_this_run": 13,
     "errors": [],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-11-11T21:36:37+00:00",
+    "finished_at": "2026-11-11T23:12:38+00:00",
+    "status": "partial_or_failed",
+    "mode": "broad",
+    "planned": 1871,
+    "checked": 1866,
+    "requests": 1921,
+    "new_links_this_run": 32,
+    "initial_inventory_this_run": 14,
+    "errors": [
+      "Network error fetching https://poorstock.com/earningcall/2471: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "Network error fetching https://poorstock.com/earningcall/2520: Response ended prematurely",
+      "Network error fetching https://poorstock.com/earningcall/2537: Response ended prematurely",
+      "Network error fetching https://poorstock.com/earningcall/4175: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "Network error fetching https://poorstock.com/earningcall/4188: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    ],
+    "missing_pages": []
   }
 ]
