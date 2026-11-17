@@ -951,5 +951,18 @@
     "initial_inventory_this_run": 0,
     "errors": [],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-11-16T23:33:13+00:00",
+    "finished_at": "2026-11-17T01:09:30+00:00",
+    "status": "completed",
+    "mode": "broad",
+    "planned": 1876,
+    "checked": 1876,
+    "requests": 1926,
+    "new_links_this_run": 27,
+    "initial_inventory_this_run": 0,
+    "errors": [],
+    "missing_pages": []
   }
 ]
