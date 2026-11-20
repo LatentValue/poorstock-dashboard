@@ -1045,5 +1045,18 @@
       "HTTP 502 fetching https://poorstock.com/earningcall/3555"
     ],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-11-20T21:59:46+00:00",
+    "finished_at": "2026-11-20T23:36:08+00:00",
+    "status": "completed",
+    "mode": "broad",
+    "planned": 1878,
+    "checked": 1878,
+    "requests": 1928,
+    "new_links_this_run": 37,
+    "initial_inventory_this_run": 0,
+    "errors": [],
+    "missing_pages": []
   }
 ]
