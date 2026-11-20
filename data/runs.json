@@ -1029,5 +1029,21 @@
       "Network error fetching https://poorstock.com/earningcall/3455: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     ],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-11-19T22:29:16+00:00",
+    "finished_at": "2026-11-20T00:06:24+00:00",
+    "status": "partial_or_failed",
+    "mode": "broad",
+    "planned": 1878,
+    "checked": 1876,
+    "requests": 1928,
+    "new_links_this_run": 47,
+    "initial_inventory_this_run": 0,
+    "errors": [
+      "Network error fetching https://poorstock.com/earningcall/3526: HTTPSConnectionPool(host='poorstock.com', port=443): Read timed out. (read timeout=30)",
+      "HTTP 502 fetching https://poorstock.com/earningcall/3555"
+    ],
+    "missing_pages": []
   }
 ]
