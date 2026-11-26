@@ -1112,5 +1112,18 @@
       "Network error fetching https://poorstock.com/earningcall/6449: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     ],
     "missing_pages": []
+  },
+  {
+    "started_at": "2026-11-25T23:23:05+00:00",
+    "finished_at": "2026-11-26T00:59:44+00:00",
+    "status": "completed",
+    "mode": "broad",
+    "planned": 1884,
+    "checked": 1884,
+    "requests": 1934,
+    "new_links_this_run": 36,
+    "initial_inventory_this_run": 5,
+    "errors": [],
+    "missing_pages": []
   }
 ]
